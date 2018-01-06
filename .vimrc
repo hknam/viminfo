@@ -9,3 +9,4 @@ set number				      " line number
 set title				        " file title
 set ignorecase			    " ignore uppercase
 set paste!				      " delete paste stair
+set colorcolumn=80      " maximum line length"
